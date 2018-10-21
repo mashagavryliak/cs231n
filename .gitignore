@@ -1,0 +1,78 @@
+# PyCharm
+.idea/
+*.iws
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit tests / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Scrapy stuff:
+.scrapy
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# dotenv
+.env
+
+
+# virtualenv
+cs_env/
+ENV/
+.DS_Store
+
+# datasets
+assignment1/cs231n/datasets/cifar-10-batches-py/*
+assignment1/cs231n/datasets/tiny-imagenet-100-A*
+assignment1/cs231n/datasets/tiny-imagenet-100-B*
+assignment1/cs231n/datasets/tiny-100-A-pretrained/*
+assignment2/cs231n/datasets/cifar-10-batches-py/*
+assignment2/cs231n/datasets/tiny-imagenet-100-A*
+assignment2/cs231n/datasets/tiny-imagenet-100-B*
+assignment2/cs231n/datasets/tiny-100-A-pretrained/*
